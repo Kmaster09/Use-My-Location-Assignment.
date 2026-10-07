@@ -12,7 +12,8 @@
           "locationWhenInUsePermission": "StayFinder uses your location to help identify nearby travel options."
         }
       ],
-      "expo-router"
+      "expo-router",
+      "expo-status-bar"
     ],
     "web": {
       "bundler": "metro"
